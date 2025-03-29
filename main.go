@@ -49,5 +49,5 @@ func main() {
 
 	fmt.Println(Small)
 	fmt.Println(Big * 0.1)
-	fmt.Println("Version 2")
+	fmt.Println("Version 3")
 }
