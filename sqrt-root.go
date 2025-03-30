@@ -15,4 +15,5 @@ func Sqrt(x float64, eps float64) float64 {
 
 func main() {
 	fmt.Println(Sqrt(2, 0.0001))
+	fmt.Println("Version 12")
 }
